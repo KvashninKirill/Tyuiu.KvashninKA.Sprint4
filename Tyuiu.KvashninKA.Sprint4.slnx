@@ -29,4 +29,9 @@
     <Project Path="Tyuiu.KvashninKA.Sprint4.Task5.V29.Test/Tyuiu.KvashninKA.Sprint4.Task5.V29.Test.csproj" />
     <Project Path="Tyuiu.KvashninKA.Sprint4.Task5.V29/Tyuiu.KvashninKA.Sprint4.Task5.V29.csproj" />
   </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.KvashninKA.Sprint4.Task6.V22.Lib/Tyuiu.KvashninKA.Sprint4.Task6.V22.Lib.csproj" />
+    <Project Path="Tyuiu.KvashninKA.Sprint4.Task6.V22.Test/Tyuiu.KvashninKA.Sprint4.Task6.V22.Test.csproj" />
+    <Project Path="Tyuiu.KvashninKA.Sprint4.Task6.V22/Tyuiu.KvashninKA.Sprint4.Task6.V22.csproj" />
+  </Folder>
 </Solution>
